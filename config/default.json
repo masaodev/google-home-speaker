@@ -1,0 +1,17 @@
+{
+  // Customer module configs
+  "userList": [
+    {
+      "user": {
+        "userId": "XXXXXXXXXXXXXXXXXX",
+        "userName": "AAAAA"
+      }
+    },
+    {
+      "user": {
+        "userId": "YYYYYYYYYYYYYYYYYY",
+        "userName": "BBBBB"
+      }
+    }
+  ]
+}
